@@ -24,3 +24,4 @@ local 5
 dev local 6
 dev local 7
 remote 1
+remote 2
