@@ -13,3 +13,4 @@ add 4
 add 5
 add 6
 local 1
+local 2
