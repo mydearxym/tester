@@ -15,3 +15,4 @@ add 6
 local 1
 local 2
 add 7
+add 8
